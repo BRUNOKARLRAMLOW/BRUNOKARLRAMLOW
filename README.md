@@ -20,8 +20,8 @@ Profissionalmente, sou comunicativo, prestativo e com forte foco na resolução 
 
 <br>
 <div align="center" style="max-width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=BRUNOKARLRAMLOW&theme=prussian&show_icons=true&hide_border=false&count_private=true&card_width=500" height="165""/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOKARLRAMLOW&theme=prussian&hide_border=false&card_width=500" height="165""/>
+      <img src="https://github-readme-stats.vercel.app/api?username=BRUNOKARLRAMLOW&theme=prussian&show_icons=true&hide_border=false&count_private=true&card_width=499" height="165""/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOKARLRAMLOW&theme=prussian&hide_border=false&card_width=499" height="165""/>
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOKARLRAMLOW&theme=prussian&show_icons=true&hide_border=false&layout=compact&card_width=1000" height="165" align="center""/>
 </div>
