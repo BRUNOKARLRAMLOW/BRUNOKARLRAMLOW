@@ -18,6 +18,8 @@ Profissionalmente, sou comunicativo, prestativo e com forte foco na resolução 
 * **Hardware & Eletrônica:** Montagem e manutenção de circuitos eletrônicos, painéis de acionamento de motores, CLPs e Soft Starters.
 * **Idiomas:** Inglês (B1) e Espanhol (A1).
 
+<br>
+
 ## 💼 Experiência Profissional
 
 <br>
