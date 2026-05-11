@@ -69,7 +69,10 @@ Profissionalmente, sou comunicativo, prestativo e com forte foco na resolução 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/3840px-Gmail_icon_%282020%29.svg.png" width="3%" align="center"> | **E-mail:** Bruno.ramlow02@gmail.com
 <br>
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" width="3%" align="center"> | **WhatsApp:** 47 99140-1525
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" width="3%" align="center"> | **WhatsApp:** [47 99140-1525](https://wa.me/5547991401525)
 <br>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="3%" align="center"> | **Istagram:** [Bruno Karl Ramlow](https://www.instagram.com/bruno.ramlow/)
+<br>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Google_Developers_icon_2020.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="3%" align="center"> | **Google Developers:** [Bruno Karl Ramlow](https://me.developers.google.com/u/104642089719249702133)
