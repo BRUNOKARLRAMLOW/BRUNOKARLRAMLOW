@@ -12,7 +12,7 @@ Profissionalmente, sou comunicativo, prestativo e com forte foco na resolução 
 * **Front-end & UI (WEB):** React, Angular, HTML, SCSS, TSX.
 * **Front-end & UI (DESKTOP):** JavaFXML.
 * **Back-end & Nuvem:** Google Firebase.
-* **Bancos de dados:** NoSQL, MySQL.
+* **Bancos de dados:** NoSQL, SQL.
 * **Linguagens de Programação (MOBILE):** Java, Kotlin, XML.
 * **Plataformas & Ferramentas:** Manutenção e desenvolvimento de sistemas WEB, aplicações desktop (Java/JavaFXML) e aplicativos móveis (Android Studio com Kotlin/Java/XML).
 * **Hardware & Eletrônica:** Montagem e manutenção de circuitos eletrônicos, painéis de acionamento de motores, CLPs e Soft Starters.
